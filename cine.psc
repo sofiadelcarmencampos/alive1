@@ -6,7 +6,7 @@ Proceso sin_titulo
 	si edad <= 12
 		Escribir "puedes verlas peliculas aptas para todo el publico"
 	SiNo
-		si edad <= 13
+		si edad <= 17
 			Escribir " puedes ver las peliculas de clasificacion B"
 		SiNo
 			si edad >= 18
